@@ -4,7 +4,7 @@
 |----|----|----|
 | 11.11.2021 | Lecture 1. Floating point numbers, veсtors and vector norms [[GitHub](./lectures/lecture1/lecture1.ipynb)] | [Seminar 1](./seminars/seminar1/seminar1.ipynb) |
 | 18.11.2021 | Lecture 2. Matrices, their properties and norms. Lowrank approximation, SVD and applications. [[GitHub](./lectures/lecture2/lecture2.ipynb)] | [Seminar 2](./seminars/seminar2/seminar2.ipynb) |
-| 25.11.2021 | Lecture 3. Linear systems. LU decomposition. Linear least-squares problem. [[GitHub](./lectures/lecture3/lecture3.ipynb)] | Seminar 3 |
+| 25.11.2021 | Lecture 3. Linear systems. LU decomposition. Linear least-squares problem. [[GitHub](./lectures/lecture3/lecture3.ipynb)] | [Seminar 3](./seminars/seminar3/seminar3.ipynb) |
 
 ## References
 
