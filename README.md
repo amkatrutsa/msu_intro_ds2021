@@ -1,4 +1,4 @@
-# The introduction course to math for data science, MSU 2021
+# The introduction course to math for data science, MSU Fall 2021 - Spring 2022
 
 |Date| Lectures | Practice sessions 
 |----|----|----|
@@ -13,6 +13,7 @@
 | 17.02.2022 | Lecture 9. Gradient descent and heavy-ball method [[GitHub](./lectures/lecture9/lecture9.ipynb)] | [Seminar 9](./seminars/seminar9/seminar9.ipynb) |
 | 03.03.2022 | Lecture 10. Accelerated gradient method and Newton method [[GitHub](./lectures/lecture10/lecture10.ipynb)] | [Seminar 10](./seminars/seminar10/seminar10.ipynb) |
 | 10.03.2022 | Lecture 11. Intro to stochastic gradient methods [[GitHub](./lectures/lecture11/lecture11.ipynb)] | [Seminar 11](./seminars/seminar11/seminar11.ipynb) |
+| 17.03.2022 | Lecture 12. Quasi-Newton methods [[GitHub](./lectures/lecture12/lecture12.ipynb)] | [Seminar 12](./seminars/seminar12/seminar12.ipynb) |
 
 ## References
 
